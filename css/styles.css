@@ -1,0 +1,46 @@
+table{
+border:1px solid black;
+text-align:center;
+border-collapse:collapse;
+margin:20px auto;
+font-family: monospace;
+font-size:20px;
+}
+table.exp td{
+width:120px;
+border:1px solid black;
+}
+td{
+width:40px;
+}
+.small{
+width:10px;
+}
+.last{
+border-left:2px solid black;
+border-right:2px solid black;
+background:#ddd;
+}
+.right{
+border-right:1px solid black;
+}
+.first{
+border-bottom:3px double black;
+}
+#container{
+width:960px;
+margin: 30px auto;
+}
+.accordion{
+width:900px;
+margin: 30px auto;
+}
+pre{
+margin:0 auto;
+border:1px solid black;
+}
+.overline{
+border-top:1px solid black;
+display:inline;
+margin-top:-5px;
+}
